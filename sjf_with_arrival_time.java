@@ -90,6 +90,6 @@ public class sjf_with_arrival_time {
         System.out.println("\nAverage Turnaround Time: " + (totalTAT / n));
         System.out.println("Average Waiting Time: " + (totalWT / n)+"\n\n\n");
 
-
+        sc.close();
     }
 }

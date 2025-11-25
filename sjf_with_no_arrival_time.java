@@ -62,5 +62,6 @@ public class sjf_with_no_arrival_time {
 
         System.out.println("\nAverage Waiting Time: " + avgWT);
         System.out.println("Average Turnaround Time: " + avgTAT+"\n\n\n");
+        sc.close();
     }
 }

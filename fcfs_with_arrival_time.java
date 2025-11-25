@@ -75,7 +75,7 @@ public class fcfs_with_arrival_time {
         }
         System.out.println("\nAverage Turnaround Time: " + averageTurnaroundTime);
         System.out.println("Average Waiting Time: " + averageWaitingTime+"\n\n\n");
-
+        scanner.close();
 
 
     }
