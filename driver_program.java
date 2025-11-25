@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class driver_program {
+public class Driver_program {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("****Wellcome to CPU Scheduling Algorithm in Java*****");
