@@ -33,16 +33,7 @@ The project helps in understanding how different scheduling techniques affect pr
 * Non-preemptive
 * Selects the process with the shortest burst time.
 
-### 3. **Shortest Remaining Time First (SRTF)** *(optional if included)*
-
-* Preemptive version of SJF.
-
-### 4. **Priority Scheduling**
-
-* Non-preemptive
-* Higher priority processes are executed first.
-
-### 5. **Round Robin (RR)**
+### 3. **Round Robin (RR)**
 
 * Preemptive
 * Each process gets CPU in fixed time quantum.
@@ -85,8 +76,9 @@ The project helps in understanding how different scheduling techniques affect pr
 Choose Scheduling Algorithm:
 1. FCFS
 2. SJF
-3. Priority
-4. Round Robin
+3. Round Robin
+4.Exit
+
 Enter choice: 1
 
 Process   Arrival   Burst   Waiting   Turnaround
@@ -117,7 +109,9 @@ P3           2        1        5          6
 ## **Contributors**
 
 * Atharv Dugani
-* [Friends/Team Members]
+* Akshay Kumbhar
+* Satyajeet Ghorapade
+
 
 ---
 
