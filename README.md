@@ -57,7 +57,7 @@ The project helps in understanding how different scheduling techniques affect pr
 
 ## **How It Works**
 
-1. User runs **MainDriver.java**.
+1. User runs **Driver_program.java**.
 2. A menu is displayed to select the desired scheduling algorithm.
 3. The program accepts process details (PID, arrival time, burst time, priority).
 4. The selected algorithm computes and displays:
